@@ -13,15 +13,15 @@
             "id": "https://larissaguenther.github.io/gh-pages/second-post.html",
             "url": "https://larissaguenther.github.io/gh-pages/second-post.html",
             "title": "Second Post",
-            "summary": "This is my second post",
-            "content_html": "<p>This is my second post</p>",
+            "summary": "This is my second post. This is not nice",
+            "content_html": "<p>This is my second post. This is not nice</p>",
             "author": {
                 "name": "Larissa"
             },
             "tags": [
             ],
             "date_published": "2020-10-30T10:09:02+01:00",
-            "date_modified": "2020-10-30T10:09:02+01:00"
+            "date_modified": "2020-10-30T10:17:25+01:00"
         },
         {
             "id": "https://larissaguenther.github.io/gh-pages/first-post.html",

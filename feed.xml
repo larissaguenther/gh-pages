@@ -3,7 +3,7 @@
     <title>Documentation</title>
     <link href="https://larissaguenther.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://larissaguenther.github.io/gh-pages" />
-    <updated>2020-10-30T10:09:02+01:00</updated>
+    <updated>2020-10-30T10:17:25+01:00</updated>
     <author>
         <name>Larissa</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://larissaguenther.github.io/gh-pages/second-post.html"/>
         <id>https://larissaguenther.github.io/gh-pages/second-post.html</id>
 
-        <updated>2020-10-30T10:09:02+01:00</updated>
+        <updated>2020-10-30T10:17:25+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is my second post
+                    This is my second post. This is not nice
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is my second post</p>
+                <p>This is my second post. This is not nice</p>
             ]]>
         </content>
     </entry>
